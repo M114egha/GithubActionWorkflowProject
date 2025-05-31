@@ -1,0 +1,1 @@
+The project deomstrates how to work with github actions
